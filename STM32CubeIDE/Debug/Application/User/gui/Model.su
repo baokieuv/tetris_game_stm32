@@ -1,0 +1,4 @@
+D:/Embedded/stm32cube/Embedded-C/TouchGFXProject/MyApplication_2/TouchGFX/gui/src/model/Model.cpp:5:1:Model::Model()	16	static
+D:/Embedded/stm32cube/Embedded-C/TouchGFXProject/MyApplication_2/TouchGFX/gui/src/model/Model.cpp:14:6:void Model::tick()	0	static
+D:/Embedded/stm32cube/Embedded-C/TouchGFXProject/MyApplication_2/TouchGFX/gui/src/model/Model.cpp:19:5:int Model::getHighestScore() const	0	static
+D:/Embedded/stm32cube/Embedded-C/TouchGFXProject/MyApplication_2/TouchGFX/gui/src/model/Model.cpp:22:6:void Model::setHighestScore(int)	0	static
